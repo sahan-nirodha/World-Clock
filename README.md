@@ -1,1 +1,1 @@
-This is a World Clock Web Page
+This is a world clock in this world clock can show the all over the countries time zones in the world.  and it can show these countries actual time.
