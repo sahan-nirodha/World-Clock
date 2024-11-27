@@ -1,6 +1,6 @@
 This is a world clock in this world clock can show the all over the countries time zones in the world.  and it can show these countries actual time.
 
-      Sample screen shots of this world clock.
+      Sample Screen Shots Of This World Clock.
 
 Dark Theme Of The World Clock
 ![Screenshot 2024-11-24 112951](https://github.com/user-attachments/assets/dcf258e7-03ab-49b5-bad8-b5a6957382c7)
